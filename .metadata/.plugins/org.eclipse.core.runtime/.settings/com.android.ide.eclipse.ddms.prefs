@@ -1,0 +1,11 @@
+#Thu Jul 26 08:38:31 BOT 2012
+logcat.view.colsize.Text=644
+logcat.view.colsize.TID=54
+logcat.view.colsize.Level=22
+ddms.logcat.automonitor.userprompt=true
+logcat.view.colsize.Application=161
+logcat.view.colsize.PID=54
+logcat.view.colsize.Tag=117
+ddms.logcat.auotmonitor.level=error
+logcat.view.colsize.Time=159
+eclipse.preferences.version=1

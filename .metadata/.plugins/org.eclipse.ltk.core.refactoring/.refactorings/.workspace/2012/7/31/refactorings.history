@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;com.aviy.memory.Manager&apos; to &apos;com.inf131.juegoDeMemoria&apos;&#x0A;- Original element: &apos;com.aviy.memory.Manager&apos;&#x0A;- Renamed element: &apos;com.aviy.memory.Manager&apos;&#x0A;- Update references to refactored element" description="Rename Java project &apos;com.aviy.memory.Manager&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=com.aviy.memory.Manager" name="com.inf131.juegoDeMemoria" references="true" stamp="1343313745059" version="1.0"/>
+</session>

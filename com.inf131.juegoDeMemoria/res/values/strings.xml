@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Juego de Memoria de Los Simpsons</string>
+    
+     <string-array name="type">
+        <item>Nuevo Juego</item>
+        <item>4 X 4</item>
+        <item>4 X 5</item>
+        <item>4 X 6</item>
+        <item>5 X 6</item>
+        <item>6 X 6</item>
+    </string-array>
+    
+</resources>
